@@ -1,12 +1,16 @@
 # Hi there 👋
 
-## 😄 I'm Elodie, a javascript fulllstack web developper.
+##  I'm Elodie, a javascript fulllstack web developper 😄
 
-## About me
-
+## About me ⚡
+I like logic and organization I found in wbe developpement. I can always learn new things, and every day is interesting.
 
 ## Technologies
 
+### Front-End
+
+
+### Back-End
 
 <!--
 **ElodieFaivre/ElodieFaivre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
