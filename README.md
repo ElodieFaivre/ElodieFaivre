@@ -15,9 +15,9 @@ You can contact me on
 
 ### Front-End
 <div align="center">
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" height="75px" margin="10px">
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css3" height="75px" margin="10px">
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="javascript" height="75px" margin="10px">
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" height="75px" margin="50px">
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css3" height="75px" margin="50px">
+<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="javascript" height="75px" margin="50px">
 </div>
 
 
