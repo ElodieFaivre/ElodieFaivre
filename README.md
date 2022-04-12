@@ -12,8 +12,8 @@ I can always learn new things, and every day is interesting.
 ## Technologies
 
 ### Front-End
-![Google logo](https://www.google.fr/images/srpr/logo11w.png "google logo")
-![HTML5](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png "html5")
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" height=50>
+HTML5, CSS3, Javascript, Bootstrap, Bulma
 
 ### Back-End
 
