@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## 😄 I'm Elodie, a javascript fulllstack web developper.
+
+## About me
+
+
+## Technologies
+
+![HTML5}(https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png)
+
 <!--
 **ElodieFaivre/ElodieFaivre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
