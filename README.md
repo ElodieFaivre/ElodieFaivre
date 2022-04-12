@@ -3,7 +3,7 @@
 ##  I'm Elodie, a javascript fulllstack web developper 😄
 
 ## About me ⚡
-I like logic and organization I found in web developpement. 
+I like logic and organization I found in web developpement. \n
 I can always learn new things, and every day is interesting.
 
 ## Technologies
