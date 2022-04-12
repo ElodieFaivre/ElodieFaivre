@@ -14,10 +14,11 @@ You can contact me on
 ## Technologies ⚡
 
 ### Front-End
+<div>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html5" height=100>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css3" height=100>
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="javascript" height=100>
-
+</div>
 
 
 ### Back-End
