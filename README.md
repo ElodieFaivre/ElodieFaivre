@@ -3,10 +3,6 @@
 ##  I'm Elodie, a javascript fulllstack web developper 😄
 
 ## About me  💬
-I like logic and organization I found in web developpement.
-
-I can always learn new things, and every day is interesting.
-
 You can contact me on 
 <a href="https://www.linkedin.com/in/elodie-faivre-15b33968/" > Linkedin </a>
 
