@@ -2,9 +2,14 @@
 
 ##  I'm Elodie, a javascript fulllstack web developper 😄
 
+- Previously, I was engineer in heating system, and I decided to switch to web development in 2021.
+- I love logic and rigour I found in code.
+- I'm interested in always learning new things.
+
 ## About me  💬
-You can contact me on 
-<a href="https://www.linkedin.com/in/elodie-faivre-15b33968/" > Linkedin </a>
+You can contact me on :
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:elodie.faivre3@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elodie-faivre)
 
 
 ## Technologies ⚡
@@ -20,10 +25,10 @@ You can contact me on
 ### Back-End
 <div align="center">
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node.js" height=100>
-<p> Express </p>
-<p> PostgreSQL </p>
-<p> MongoDB </p>  
-<p> GraphQL </p>
+<img src ="https://img.shields.io/badge/Express-%234ea94b.svg?&style=for-the-badge&logo=express&logoColor=white" alt="GraphQL" height=100> 
+<img src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"  alt="PostgreSQL" height=100>
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height=100> 
+<img src ="https://img.shields.io/badge/GraphQL-%234ea94b.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height=100> 
 </div>
 
 <!--
