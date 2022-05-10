@@ -36,6 +36,15 @@ You can contact me on :
 <img src ="https://img.shields.io/badge/GraphQL-c14438?&style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" > 
 </div>
 
+### Stats
+<div align="center">
+   
+![Elodie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElodieFaivre&count_private=true&border_color=0e1117&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElodieFaivre&border_color=0e1117&theme=dark)
+  
+</div>
+
+
 <!--
 **ElodieFaivre/ElodieFaivre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
