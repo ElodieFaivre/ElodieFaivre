@@ -9,7 +9,7 @@
 ## About me  💬
 You can contact me on :
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:elodie.faivre3@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColorr=white)](mailto:elodie.faivre3@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elodie-faivre)
 
 
@@ -25,15 +25,15 @@ You can contact me on :
 
 ### Back-End
 <div align="center">
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node.js" height=100>
+<img src ="https://img.shields.io/badge/NodeJS-%23316192.svg?&style=for-the-badge&logo=express&logoColor=white" alt="GraphQL" > 
   
-<img src ="https://img.shields.io/badge/Express-%234ea94b.svg?&style=for-the-badge&logo=express&logoColor=white" alt="GraphQL" > 
+<img src ="https://img.shields.io/badge/Express-F7DF1E?&style=for-the-badge&logo=express&logoColor=white" alt="GraphQL" > 
   
-<img src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"  alt="PostgreSQL" >
+<img src ="https://img.shields.io/badge/PostgreSQL-61DAFB?&style=for-the-badge&logo=postgresql&logoColor=white"  alt="PostgreSQL" >
   
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" > 
   
-<img src ="https://img.shields.io/badge/GraphQL-%234ea94b.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" > 
+<img src ="https://img.shields.io/badge/GraphQL-%23316192.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" > 
 </div>
 
 <!--
