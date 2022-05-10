@@ -33,7 +33,7 @@ You can contact me on :
   
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" > 
   
-<img src ="https://img.shields.io/badge/GraphQL-%23316192.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" > 
+<img src ="https://img.shields.io/badge/GraphQL-c14438?&style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" > 
 </div>
 
 <!--
